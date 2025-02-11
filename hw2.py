@@ -18,4 +18,4 @@
 # cloning a repository makes a copy of a remote repository while pull only copies modified files to the local repository 
 # 10) Tell me a fun fact!
 # penguins propose with pebbles and mate for life!
-# giraffes are more likely to get hit by lightning than humans!
+# giraffes are more likely to get hit by lightning than humans are!
