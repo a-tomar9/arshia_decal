@@ -24,8 +24,11 @@ To complete this homework, follow these steps:
 
 5) Answer these questions in your `awesome.txt` file:
 - What command lists all branches in your repository, including both local and remote tracking branches?
+git branch -a
 - What does `remotes/origin/HEAD -> origin/main` mean?
+this basically means that the default branch of the remote repository is 'main'
 - How is it different from `remotes/origin/main` and just `main`? 
+the former refers to main branch in the remote repository while main is the main in the local repository
 
 6) Add, commit and push your `extra_credit_hw` branch from your local `<YOUR_NAME>_decal` repostory to your remote repository. Take a screenshot.
 
